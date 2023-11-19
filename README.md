@@ -1,2 +1,3 @@
 # TonDogeApi
-..
+
+# Method's
